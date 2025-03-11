@@ -18,7 +18,7 @@ const NavBar = () => {
                     </ul>
                 </div>
                 <div className="">
-                    <a href="https://drive.google.com/file/d/1faQBzGrvYKDQCv7YkV62NfQH0EiZ5UBD/view?usp=sharing" target="_blank" className="text-black font-bold text-lg flex items-center  blank hover:bg-gradient-to-r from-pink-300 to-violet-400 md:px-5 md:py-2 py-1 px-3 bg-sky-300 rounded-full"><span className="mr-2"><FaDownload /></span>Resume</a>
+                    <a href="https://drive.google.com/file/d/1D1HhfRNpiZsMJdRZXWQmODbbqFRtkYqU/view?usp=sharing" target="_blank" className="text-black font-bold text-lg flex items-center  blank hover:bg-gradient-to-r from-pink-300 to-violet-400 md:px-5 md:py-2 py-1 px-3 bg-sky-300 rounded-full"><span className="mr-2"><FaDownload /></span>Resume</a>
                 </div>
             </div>
         </div>
